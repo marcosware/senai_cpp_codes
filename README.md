@@ -1,2 +1,2 @@
-A compilation of C++ codes from my Systems Development course. <br>
+A compilation of C++ algorithms. (Systems Development technical course) <br>
 IDE: Dev-C++
